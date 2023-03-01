@@ -18,7 +18,7 @@ import { Form } from '@angular/forms';
     neutralcomponents
   ],
   imports: [
-    BrowserModule,Form
+    BrowserModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
